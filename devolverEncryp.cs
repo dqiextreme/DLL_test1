@@ -8,7 +8,7 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace DLL_test1.Encrypt_
+namespace DLL_test1
 {
   public class devolverEncryp
   {

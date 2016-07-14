@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="_Mtd_det.cs" />
     <Compile Include="devolverEncryp.cs" />
     <Compile Include="encriptado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

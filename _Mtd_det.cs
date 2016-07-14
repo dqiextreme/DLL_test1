@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace DLL_test1
 {
-    public class Class1
+    public class _Mtd_det
     {
         //todo va en una clase
         DataSet _Ds = new DataSet();

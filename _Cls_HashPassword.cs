@@ -4,7 +4,7 @@ namespace DLL_test1
 {
   public class _Cls_HashPassword
   {
-    public static string _Mtd_HashPass(string _P_Str_textPass)
+    public string _Mtd_HashPass(string _P_Str_textPass)
     {
       try
       {
