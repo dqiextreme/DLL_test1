@@ -1,0 +1,4 @@
+c:\users\asoftware8\documents\visual studio 2010\Projects\DLL_test1\DLL_test1\bin\Debug\DLL_test1.dll
+c:\users\asoftware8\documents\visual studio 2010\Projects\DLL_test1\DLL_test1\bin\Debug\DLL_test1.pdb
+c:\users\asoftware8\documents\visual studio 2010\Projects\DLL_test1\DLL_test1\obj\Debug\DLL_test1.dll
+c:\users\asoftware8\documents\visual studio 2010\Projects\DLL_test1\DLL_test1\obj\Debug\DLL_test1.pdb
