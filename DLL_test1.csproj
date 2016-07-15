@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="_Mtd_det2.cs" />
     <Compile Include="_Mtd_det.cs" />
     <Compile Include="devolverEncryp.cs" />
     <Compile Include="encriptado.cs" />

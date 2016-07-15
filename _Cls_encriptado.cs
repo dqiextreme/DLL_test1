@@ -10,7 +10,7 @@ namespace DLL_test1
 {
   public class _Cls_encriptado
   {
-    public static string _Mtd_encriptar(string _P_Str_Textencript)
+    public string _Mtd_encriptar(string _P_Str_Textencript)
     {
       try
       {
@@ -23,7 +23,7 @@ namespace DLL_test1
       return _P_Str_Textencript;
     }
 
-    public static string _Mtd_desencriptar(string _P_Str_Textencript)
+    public string _Mtd_desencriptar(string _P_Str_Textencript)
     {
       try
       {

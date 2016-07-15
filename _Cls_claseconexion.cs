@@ -1,10 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: DLL_test1._Cls_claseconexion
-// Assembly: DLL_test1, Version=1.0.2725.14761, Culture=neutral, PublicKeyToken=null
-// MVID: 81733F6D-ECB1-4873-9A91-D345ABACEC25
-// Assembly location: C:\Users\asoftware8\Documents\fuentes\T3\sprint_1\bin\Debug\DLL_test1.dll
-
-using System;
+﻿using System;
 using System.Data;
 using System.Data.SqlClient;
 
